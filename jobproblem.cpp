@@ -91,7 +91,7 @@ int findMinCost(int** costMatrix, int N)
 int main()
 {
   int N;
-  cout<<"\nEnter the number of workers/jobs\n";
+  cout<<"\nEnter the number of workers/jobs";
   cin>>N;
   int** cost=new int*[N];//cost matrix is the worker-job matrix which tells the cost of every worker in every job and is the input of the program
   for(int i=0;i<N;i++)
