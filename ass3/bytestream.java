@@ -7,7 +7,7 @@ public class CopyFile {
 
       try {
          in = new FileInputStream("input.txt");
-         out = new FileOutputStream("output.txt");
+         out = new FileOutputStream("byte_output.txt");
          
          int c;
          while ((c = in.read()) != -1) {
