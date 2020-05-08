@@ -1,0 +1,3 @@
+This is the input to assignment 3 of java programming.
+Ashish Aggarwal
+181210012
